@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759503374970",
+    "project_id": "cehp-5ff3d",
+    "storage_bucket": "cehp-5ff3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759503374970:android:f51d83c5948a6ab72549c3",
+        "android_client_info": {
+          "package_name": "com.cehp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759503374970-48gf361afnvp7leh05uo1b93vtsp770g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4BF6s8o8CWVR8pSvWJmsgOiLEWYW68so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759503374970-48gf361afnvp7leh05uo1b93vtsp770g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
